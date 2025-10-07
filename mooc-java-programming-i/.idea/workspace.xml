@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9615e0f4-c195-42ac-8d91-8db8ed72bd2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/part02-Part02_03.AbsoluteValue/src/main/java/AbsoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_03.AbsoluteValue/src/main/java/AbsoluteValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_03.AbsoluteValue/target/classes/AbsoluteValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_03.AbsoluteValue/target/classes/AbsoluteValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_04.ComparingNumbers/src/main/java/ComparingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_04.ComparingNumbers/src/main/java/ComparingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_05.CarryOn/src/main/java/CarryOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_05.CarryOn/src/main/java/CarryOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_05.CarryOn/target/classes/CarryOn.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_05.CarryOn/target/classes/CarryOn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_08.NumberOfNumbers/src/main/java/NumberOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_08.NumberOfNumbers/src/main/java/NumberOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_08.NumberOfNumbers/target/classes/NumberOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_08.NumberOfNumbers/target/classes/NumberOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_11.NumberAndSumOfNumbers/src/main/java/NumberAndSumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_11.NumberAndSumOfNumbers/src/main/java/NumberAndSumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_11.NumberAndSumOfNumbers/target/classes/NumberAndSumOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_11.NumberAndSumOfNumbers/target/classes/NumberAndSumOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_14.Counting/src/main/java/Counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_14.Counting/src/main/java/Counting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_14.Counting/target/classes/Counting.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_14.Counting/target/classes/Counting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_16.FromWhereToWhere/src/main/java/FromWhereToWhere.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_16.FromWhereToWhere/src/main/java/FromWhereToWhere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_16.FromWhereToWhere/target/classes/FromWhereToWhere.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_16.FromWhereToWhere/target/classes/FromWhereToWhere.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_17.SumOfASequence/src/main/java/SumOfASequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_17.SumOfASequence/src/main/java/SumOfASequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_17.SumOfASequence/target/classes/SumOfASequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_17.SumOfASequence/target/classes/SumOfASequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_19.Factorial/src/main/java/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_19.Factorial/src/main/java/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_19.Factorial/target/classes/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_19.Factorial/target/classes/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_22.Reprint/src/main/java/Reprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_22.Reprint/src/main/java/Reprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_22.Reprint/target/classes/Reprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_22.Reprint/target/classes/Reprint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/src/main/java/FromParameterToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/src/main/java/FromParameterToOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/target/classes/FromParameterToOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_24.FromParameterToOne/target/classes/FromParameterToOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/src/main/java/DivisibleByThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/src/main/java/DivisibleByThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/target/classes/DivisibleByThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/part02-Part02_26.DivisibleByThree/target/classes/DivisibleByThree.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="33jqy4d1OnTzS6D040XMVwdWFBk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Piotr/Desktop/Java/tmcdata/mooc-java-programming-i",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9615e0f4-c195-42ac-8d91-8db8ed72bd2f" name="Changes" comment="" />
+      <created>1759841080296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759841080296</updated>
+      <workItem from="1759841082472" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
