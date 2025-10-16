@@ -9,6 +9,7 @@ public class PaymentTerminal {
 
     public PaymentTerminal() {
         // register initially has 1000 euros of money
+        this.money = 1000;
     }
 
     public double eatAffordably(double payment) {

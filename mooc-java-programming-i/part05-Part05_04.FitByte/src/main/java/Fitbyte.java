@@ -11,3 +11,4 @@ public class Fitbyte {
     return (maxHeartRate - this.restingHeartRate) * (percentageOfMaximum) + this.restingHeartRate;
    }
 }
+
