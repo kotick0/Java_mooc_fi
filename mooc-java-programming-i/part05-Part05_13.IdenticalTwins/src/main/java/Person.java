@@ -16,4 +16,16 @@ public class Person {
     }
 
     // implement an equals method here for checking the equality of objects
+    public boolean equals(Object compared) {
+        Person comparedPerson = (Person) compared;
+        if (this.name.equals(comparedPerson.name)
+                && this.birthday.getYear() == comparedPerson.birthday.getYear()
+                && this.birthday.getMonth() == comparedPerson.birthday.getMonth()
+                && this.birthday.getDay() == comparedPerson.birthday.getDay()
+                && this.height == comparedPerson.height
+                && this.weight == comparedPerson.weight) {
+            return true;
+        }
+        return false;
+    }
 }
