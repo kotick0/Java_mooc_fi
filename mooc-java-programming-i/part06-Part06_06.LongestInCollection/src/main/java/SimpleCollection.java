@@ -18,5 +18,18 @@ public class SimpleCollection {
     public ArrayList<String> getElements() {
         return this.elements;
     }
+    public String longest() {
+        if(this.elements.isEmpty()) {
+            return null;
+        }
+        String returnObject = this.elements.get(0);
+        for(String element : this.elements) {
+            if(element.length() > returnObject.length()) {
+                returnObject = element;
+            }
+        }
+        return returnObject;
+
+    }
 
 }
